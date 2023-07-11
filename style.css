@@ -1,0 +1,16 @@
+.Container{
+    height: 500px;
+    width: 400px;
+    background-color: chartreuse;
+    border-radius: 0px solid black;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+input[type=number] {
+    background-color:silver;
+}
+
+button[type=button]{
+    background-color: blue;
+}
